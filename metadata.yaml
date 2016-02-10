@@ -1,0 +1,35 @@
+_repo: Ang-Filibusterismo-Karugtong-ng-Noli-Me-Tangere_47629
+contributor:
+  translator:
+    agent_name: Mariano, Patricio
+    birthdate: 1877
+    deathdate: 1935
+    gutenberg_agent_id: '4994'
+    url: http://www.gutenberg.org/2009/agents/4994
+    wikipedia: http://en.wikipedia.org/wiki/Patricio_Mariano
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal, Jose
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://www.joserizal.ph/
+    - http://en.wikipedia.org/wiki/José_Rizal
+description: ''
+gutenberg_issued: '2014-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47629'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Ang "Filibusterismo"
+
+  (Karugtóng ng Noli Me Tangere)'
+url: http://www.gutenberg.org/ebooks/47629
